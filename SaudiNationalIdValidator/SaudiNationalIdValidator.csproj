@@ -13,8 +13,8 @@
 		<Description>A comprehensive library for validating Saudi National IDs with support for data annotations and helper methods. Validates ID format, checksum, and determines whether the ID belongs to a citizen or resident.</Description>
 		<PackageTags>saudi;national-id;validation;data-annotation;validator</PackageTags>
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
-		<PackageProjectUrl>https://github.com/yourusername/SaudiNationalIdValidator</PackageProjectUrl>
-		<RepositoryUrl>https://github.com/yourusername/SaudiNationalIdValidator</RepositoryUrl>
+		<PackageProjectUrl>https://github.com/proahmedmansour/SaudiNationalIdValidator</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/proahmedmansour/SaudiNationalIdValidator</RepositoryUrl>
 		<RepositoryType>git</RepositoryType>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
 
